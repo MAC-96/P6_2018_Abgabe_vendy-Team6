@@ -1,0 +1,17 @@
+{
+  "name": "technik",
+  "version": "1.0.0",
+  "description": "",
+  "main": "TemplateWriteIntoDatabase.js",
+  "dependencies": {
+    "mqtt": "^2.18.2",
+    "npm": "^6.1.0",
+    "sqlite3": "^4.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Uta",
+  "license": "ISC"
+}
